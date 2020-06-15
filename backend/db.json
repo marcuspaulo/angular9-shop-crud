@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Video Game PRO Japonês",
+      "price": "3299",
+      "id": 1
+    },
+    {
+      "name": "Video Game Americano Box",
+      "price": "2899",
+      "id": 2
+    },
+    {
+      "name": "TV 68\" 8K Coreana",
+      "price": "5.699",
+      "id": 3
+    },
+    {
+      "name": "TV 80\" 8K Japonesa",
+      "price": "18.999",
+      "id": 4
+    },
+    {
+      "name": "TV 68\" 8K HDR Smart",
+      "price": "8.999",
+      "id": 5
+    }
+  ]
+}
